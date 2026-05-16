@@ -8,12 +8,36 @@ tags:
   - Electrical
   - Utilities
   - Energy Infrastructure
-  - Philadelphia
-description: 'A specialty electrical and mechanical contractor headquartered in Cherry Hill, NJ, serving the energy, utility, and infrastructure sectors across the mid-Atlantic region. A subsidiary of Quanta Services.'
+description: >-
+  Riggs Distler & Company is an energy and utility infrastructure
+  construction firm operating since 1909. Now part of Centuri Group, the
+  company delivers electric transmission and distribution, natural gas,
+  renewable energy, emergency response, and heavy civil services across the
+  United States and Canada. Riggs Distler is a field-services contractor
+  with no public developer APIs or developer portal.
 created: '2026-05-05'
-modified: '2026-05-05'
+modified: '2026-05-16'
 specificationVersion: '0.19'
 apis: []
 common:
   - type: Website
-    url: https://www.riggsdistler.com/
+    url: https://centuri.com/riggs-distler
+  - type: ParentCompany
+    url: https://centuri.com/
+  - type: Vocabulary
+    url: vocabulary/riggs-distler-vocabulary.yml
+  - type: Features
+    data:
+      - name: Electric Infrastructure
+        description: Transmission and distribution lines, substations, underground conduit systems
+      - name: Natural Gas Systems
+        description: Mains, services, compressor stations, and meter installations
+      - name: Renewable Energy
+        description: Solar installations, offshore wind foundation components, battery storage systems
+      - name: Emergency Response
+        description: Storm restoration and hazard clearing services
+      - name: Heavy Civil and Fabrication
+        description: Foundations, in-house fabrication shop, and modular construction
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com

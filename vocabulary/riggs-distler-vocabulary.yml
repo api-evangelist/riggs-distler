@@ -1,0 +1,20 @@
+vocabulary: riggs-distler
+description: Vocabulary for Riggs Distler's energy and utility infrastructure construction domain
+terms:
+  - term: Transmission Line
+    definition: High-voltage electrical line for long-distance power transport
+  - term: Distribution Line
+    definition: Lower-voltage line delivering power to end customers
+  - term: Substation
+    definition: Voltage transformation and switching node in the electric grid
+  - term: Compressor Station
+    definition: Natural gas pipeline facility that maintains line pressure
+  - term: Storm Restoration
+    definition: Emergency electric and gas service restoration after severe weather
+  - term: Offshore Wind Foundation
+    definition: Subsea structural foundation supporting offshore wind turbines
+dimensions:
+  - name: sector
+    values: [Electric, Gas, Renewable, Heavy Civil]
+  - name: service-type
+    values: [Construction, Maintenance, Emergency Response, Fabrication]
