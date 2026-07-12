@@ -20,6 +20,8 @@ modified: '2026-05-16'
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/riggs-distler-domain-security.yml
   - type: Website
     url: https://centuri.com/riggs-distler
   - type: ParentCompany
