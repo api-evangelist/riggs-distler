@@ -1,0 +1,27 @@
+# Front Door AI Index — riggs-distler — 2026-09-17
+# AI vocabulary counted on the provider's root page. Generated; do not edit.
+# `score` is null unless ownership is `own` — see front_door_ai.py.
+front_door_ai:
+  slug: riggs-distler
+  lexicon_version: '1.0'
+  probed_at: '2026-09-17'
+  host: centuri.com
+  final_host: centuri.com
+  ownership: own
+  owner: riggs-distler
+  shares_host_with: null
+  inherited_from: null
+  verdict: scored
+  score: 2
+  host_score: 2
+  density: 0.8
+  words: 2500
+  tiers:
+    agentic: 0
+    core: 1
+    model: 1
+  ambiguous: 1
+  top_terms:
+    AI: 1
+    smart: 1
+    transformer: 1
